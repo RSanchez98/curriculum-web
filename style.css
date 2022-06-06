@@ -1,0 +1,33 @@
+*
+{
+	margin: 10px 0px 0px 10px;
+	font: 1.05em sans-serif;
+	text-align: justify;
+	background-color: blanchedalmond;
+}
+
+.circulo
+{
+	background-image: url("media/foto_perfil.jpg");
+	background-position: center;
+	background-size: 150%;
+	background-repeat: no-repeat;
+	border: 2px solid black;
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	float: left;
+}
+
+.biografia
+{
+	padding: 10px;
+	width: 70%;
+	float: left;
+	border: 2px solid black;
+}
+
+.biografia, .biografia p
+{
+	background-color: lightgrey;
+}
